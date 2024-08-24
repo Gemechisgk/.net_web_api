@@ -11,8 +11,6 @@ This project is a straightforward implementation of a Web API using ASP.NET Core
 - **RESTful Endpoints**: Create, Read, Update, Delete (CRUD) operations.
 - **Entity Framework Core**: Easy data access and manipulation.
 - **Swagger Integration**: Built-in API documentation for testing and exploration.
-- **JWT Authentication**: Secure your API with token-based authentication.
-- **Unit Testing**: Basic test cases to ensure code reliability.
 
 ## Getting Started
 
